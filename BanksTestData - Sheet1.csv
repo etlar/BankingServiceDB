@@ -1,0 +1,10 @@
+BankId,BankName,BankPhone,BankAddress,BankChairman,ClientId
+ca7478ae-2428-11ec-9621-0242ac130002,Sberbank,7419085291,"613934, Zorino, st. Kuusinena, house 190",Makarova Victoria Vitalievna,01ac0401-2157-4399-968f-0e22146111ea
+ca747ac0-2428-11ec-9621-0242ac130003,Alfabank,756544412,"368265, Adamovka, st. Lithuanian blvd, 28",Zimina Liliana Vladimirovna,12634ee3-a405-4da7-acc2-0b5c681f2dd7
+ca747b9c-2428-11ec-9621-0242ac130004,Khlynov,7865608371,"623159, Isyangulovo, st. Vitebskaya, 115",Sakharova Nadezhda Dmitrievna,a2da0669-da8d-4030-949d-befe64696f2c
+ca747e3a-2428-11ec-9621-0242ac130005,Tinkoff,79169129325,"646380, Terbuny, st. Krasnobogatyrskaya, house 168",Baykov Avdey Sergeevich,d5011908-d044-41e0-b392-81c960b965ea
+ca747f16-2428-11ec-9621-0242ac130006,Postbank,77031539304,"397524, Lipovo, st. Bogoyavlensky lane, house 133",Vasily Smorchkov,370f9600-f263-4a12-b032-98b798152fe3
+ca747fd4-2428-11ec-9621-0242ac130007,Vyatkabank,765033924,"164120, Parfino, st. Pomegranate 4th Lane, 32",Zhdanova Regina G.,8f03ea6b-150d-4d85-ac49-821a069263e6
+ca748088-2428-11ec-9621-0242ac130008,RFbank,7247417014,"431851, Armizonskoe, st. Passing, house 72",Barinov Nazar Danilovich,94084b23-daab-45e0-8923-833ba3d9bd26
+ca74813c-2428-11ec-9621-0242ac130009,VTBbank,755095300,"623406, Ivanteevka, st. Rostokinsky passage, house 200",Kozlov Fortunat Ermakovich,111632e0-5441-4a3b-bf45-eb2c6107d5c8
+ca748204-2428-11ec-9621-0242ac130010,Rosbank,77687171523,"216524, Summer Headquarters, st. Zlatoustovskaya, house 174",Generalova Varvara Arkadyevna,c162c410-a24b-4f5f-b79e-077f9e4d9a83
